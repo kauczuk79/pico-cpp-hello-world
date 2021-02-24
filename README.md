@@ -1,6 +1,7 @@
 # Install
 
 ```
+apt install cmake gcc-arm-none-eabi build-essential
 cmake .
 ```
 
